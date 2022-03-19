@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdullah97128
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently working on MEAN Stack
+- 🌱 I’m currently working on MEAN & MERN Stack
 - 💞️ I’m looking to collaborate on Interesting Projects
 - 📫 Contact me at abdullah97128@gmail.com
 
