@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdullah97128
+- 👋 Hi, I’m Muhammad Abdullah
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently working on MEAN & MERN Stack
 - 💞️ I’m looking to collaborate on Interesting Projects
