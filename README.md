@@ -1,19 +1,12 @@
-<table>
-    <tr>
-        <td valign="top" width="50%">
-            - 👋 Hi, I’m Muhammad Abdullah
-            - 👀 I’m interested in Web Development
-            - 🌱 I’m currently working on MEAN & MERN Stack
-            - 💞️ I’m looking to collaborate on Interesting Projects
-            - 📫 Contact me at abdullah97128@gmail.com
-        </td>
-        <td valign="top" width="50%">
-            <div align="center">
-                <img src="https://github.com/Abdullah97128/Abdullah97128/blob/main/assets/greeting.gif?raw=true" />
-            </div>
-        </td>
-    </tr>
-</table>
+<div align="center">
+    <img src="https://github.com/Abdullah97128/Abdullah97128/blob/main/assets/greeting.gif?raw=true" />
+</div>
+
+- 👋 Hi, I’m Muhammad Abdullah
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently working on MEAN & MERN Stack
+- 💞️ I’m looking to collaborate on Interesting Projects
+- 📫 Contact me at abdullah97128@gmail.com
 
 <br/>
 
