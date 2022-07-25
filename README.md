@@ -2,6 +2,8 @@
     <img src="https://github.com/Abdullah97128/Abdullah97128/blob/main/assets/greeting.gif?raw=true" />
 </div>
 
+<br/>
+
 - 👋 Hi, I’m Muhammad Abdullah
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently working on MEAN & MERN Stack
