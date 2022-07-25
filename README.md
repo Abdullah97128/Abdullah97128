@@ -6,10 +6,6 @@
 
 ## My Skill Set
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
 ### Frontend
 
 <div align="center">
@@ -35,8 +31,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/invision.svg" alt="Invision" height="50" />
 </div>
-
-</td><td valign="top" width="33%">
 
 ### Backend
 
@@ -71,13 +65,13 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" height="50" alt="Heroku" />
 </div>
 
-</td>
-</tr>
-</table>
-
 <br/>
 
 ### Badges
+
+<a href="https://github.com/abdullah97128" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah97128&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vmkh4x4cmnavtcp7ineyws63c&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <!---
 Abdullah97128/Abdullah97128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
